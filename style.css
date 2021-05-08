@@ -115,9 +115,8 @@ h4 {
 
 footer {
     border-top: 5px solid lime;
-    background-image: url(assets/California.png);
+    background-image: url(assets/MapIMadeCLIP.png);
     background-size: cover;
-    background-position: fixed;
     background-attachment: fixed;
     background-repeat: no-repeat;
     margin-left: auto;
