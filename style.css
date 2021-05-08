@@ -118,6 +118,7 @@ footer {
     background-image: url(assets/MapIMadeCLIP.png);
     background-size: cover;
     background-attachment: fixed;
+    background-position: fixed;
     background-repeat: no-repeat;
     margin-left: auto;
     margin-right: auto;
