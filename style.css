@@ -15,7 +15,7 @@ header {
     background-image: url(assets/MapIMade.png);
     background-size:cover;
     background-attachment: fixed;
-    background-position: fixed;
+    background-position: 0 0;
     background-repeat: no-repeat;
     font-family: serif;
     color:whitesmoke;
