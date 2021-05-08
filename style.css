@@ -117,7 +117,7 @@ footer {
     border-top: 5px solid lime;
     background-image: url(assets/MapIMade.png);
     background-size: cover;
-    background-position: 0 000;
+    background-position: fixed;
     background-attachment: fixed;
     width: 100%;
     height: 40%;
